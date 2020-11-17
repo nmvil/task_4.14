@@ -18,4 +18,4 @@ GIT logo by Jason Long - <http://git-scm.com/downloads/logos>, license: [CC BY 3
 ![GitLab](./img/fork1.png "GitLab")
 
 ---
-[прошлая глава](./conflicts.md) | [на главную](./README.md) | [следующая глава](./github.md)
+[прошлая глава](./conflicts.md) | [на главную](./README.md) | [следующая глава](./work_with_github.md)
