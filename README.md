@@ -19,7 +19,7 @@ GIT logo by Jason Long - <http://git-scm.com/downloads/logos>, license: [CC BY 3
     3. [Просмотр истории](./work_with_git.md#log)
     4. [Работа с удалённым репозиторием](./work_with_git.md#remote)
 4. [Ветвление](./branch.md)
-5. [Методологии ветвления]()
+5. [Методологии ветвления](./branch_methods.md)
 6. [Конфликты и методы исправления]()
 7. [Форк]()
 8. [Работа с GitHub]()
