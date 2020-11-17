@@ -1,0 +1,8 @@
+.DS_Store
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode
+*.sw?
