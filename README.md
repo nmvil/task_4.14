@@ -25,8 +25,8 @@ GIT logo by Jason Long - <http://git-scm.com/downloads/logos>, license: [CC BY 3
 	3. [Feature Branch Workflow](./branch_methods.md#feature)
 	4. [Issue Branch Workflow](./branch_methods.md#issue)
 	5. [Forking Workflow](./branch_methods.md#forking)
-6. [Конфликты и методы исправления]()
-7. [Форк]()
+6. [Конфликты](./conflicts.md)
+7. [Форк](./fork.md)
 8. [Работа с GitHub]()
 9. [Источники](./sources.md)
 

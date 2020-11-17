@@ -8,6 +8,7 @@ GIT logo by Jason Long - <http://git-scm.com/downloads/logos>, license: [CC BY 3
 
 ---
 
-1. [Документация Git](https://git.github.io/htmldocs/git.html)
-2. [Введение в Git](https://habr.com/ru/post/472600/), @Elliot_001
-3. [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями)
+1. [Курс профессия Веб-разработчик](https://skillfactory.ru/webdev)
+2. [Документация Git](https://git.github.io/htmldocs/git.html)
+3. [Введение в Git](https://habr.com/ru/post/472600/), @Elliot_001
+4. [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями)
